@@ -9,3 +9,7 @@ This is an Automatic Speech Recognition (ASR) model specifically built for the S
     Trained with high-quality Somali datasets
 
     Aimed to support Somali language technology and accessibility
+
+⚠️ Note:
+The trained model file is too large to upload to GitHub.
+If you're interested in testing or using the model, feel free to contact me directly.
